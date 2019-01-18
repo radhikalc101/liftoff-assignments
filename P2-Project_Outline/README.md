@@ -7,11 +7,31 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+- My project "My Store" is a inventory management system which allow the store owner to maintaining their store inventory and publish to online.
+Later on I am planing to do a clint app for mobile consumers for online purchases.
+- Idea: This app very helpful for small scale local retailers who can not offered to build their own app, this app opens their market to sell their products online.
+- One of our friend requested me to build a mobile app for their store.
+
 ### Features
-Include Features here
+- User Login/Sign Up:Store owner can register and login to this app
+- Add/Edit/View Items: Store owner can create,edit view his inventory by using required fields(name,description,category,brand,price and quantity).
+- Add/Edit/View Categories: Store owner can create,edit,view store item categories.
+- Add/Edit/View Brands: Store owner can create,edit,view store item brands.
+- Search/Filter items by Name,Category,Brand
+
 ### Technologies
-Include Technologies here
+- Spring boot
+- MAMP(MySql data base)
+- Bootstrap
+- Html
+- Css
+- Thymeleaf
+- Java
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+- How to enable micro services(API) to provide store data to consumers.
+- Spring boot custom validations
+- Css styling 
+- Javascript even handling 
+- Junit for unit testing
+- Data base model custom filters 
