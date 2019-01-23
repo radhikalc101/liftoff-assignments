@@ -1,19 +1,25 @@
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
-## Assignment Description
+### Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
-## Submission Instructions
+### Submission Instructions
 
-### Wireframes
+#### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- [Signup Page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/signup_page.pdf)
+- [Login Page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/login_page.pdf)
+- [Add Category Page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/AddCategory_page.pdf)
+- [Add Brand Page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/AddBrand_page.pdf)
+- [Add Item Page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/AddItem_page.pdf)
+- [Item Search/List page](https://github.com/radhikalc101/my-store/blob/master/src/main/resources/wireframes/storeList_page.pdf)
 
-### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+#### Project Tracker
 
-### Project Repo Link
+[User Stories (Pivotal Tracker)](https://www.pivotaltracker.com/n/projects/2238724)
 
-(Include a link to your project on GitHub)
+#### Project Repo Link
+
+[My Store (GIT)](https://github.com/radhikalc101/my-store.git)
