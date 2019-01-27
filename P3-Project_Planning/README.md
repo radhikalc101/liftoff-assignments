@@ -18,7 +18,7 @@ For this assignment, you'll create some initial plans for your project.
 
 #### Project Tracker
 
-[User Stories (Pivotal Tracker)](https://www.pivotaltracker.com/n/projects/2238724)
+[User Stories (Pivotal Tracker)](https://www.pivotaltracker.com/projects/2238724)
 
 #### Project Repo Link
 
