@@ -7,4 +7,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[My-store-presentation](./My-Store-Presentation-pdf.pdf)
+- p6-project_Presentation/My-Store-Presentation-pdf.pdf
